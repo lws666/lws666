@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lws666&theme=github-compact&hide_border=true&color=49b1f5&line=00c4b6&point=ff7242&area=true&area_color=49b1f5" alt="Activity Graph" width="100%" />
+<img src="https://streak-stats.demolab.com?user=lws666&theme=transparent&hide_border=true&background=00000000&ring=49b1f5&fire=ff7242&currStreakLabel=49b1f5&sideLabels=5b6674&dates=94a3b8&currStreakNum=1f2d3d&sideNums=1f2d3d&locale=zh_Hans" alt="GitHub Streak" />
 
 </div>
 
