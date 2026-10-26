@@ -9,6 +9,7 @@
 前端开发 · Serverless · Cloudflare Workers<br />自托管博客与在线工具
 
 <a href="https://www.lwsnb.eu.cc"><img src="https://img.shields.io/badge/博客-www.lwsnb.eu.cc-49b1f5?style=flat-square&logo=googlechrome&logoColor=white" alt="Blog" /></a>
+<a href="https://t.me/lwsnb"><img src="https://img.shields.io/badge/Telegram-@lwsnb-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://github.com/lws666?tab=repositories"><img src="https://img.shields.io/badge/仓库-39-1f2d3d?style=flat-square&logo=github&logoColor=white" alt="Repos" /></a>
 
 </div>
